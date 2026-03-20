@@ -1,0 +1,21 @@
+{
+  "name": "dark-leme",
+  "displayName": "Dark Leme",
+  "description": "Color theme based on Visual Studio Dark, designed to improve visual clarity and separation between interface elements, making it easier to recognize boundaries and understand the layout at a glance.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-leme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-leme-color-theme.json"
+      }
+    ]
+  }
+}
