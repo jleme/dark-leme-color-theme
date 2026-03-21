@@ -1,14 +1,18 @@
-# Dark Leme README
+# README
+
+# Goal
+
+The goal of this theme is to improve visual clarity and spatial awareness by reinforcing boundaries and contrast between key UI regions, making it easier to understand the layout at a glance.
 
 # Motivation
 
-This theme was created to address a practical usability issue: difficulty in quickly identifying the boundaries between interface elements.
+The Visual Studio Dark theme is the theme I personally find most suitable and comfortable to use.
 
-In many situations, elements such as the title bar, tab bar, editor area, minimap, and terminal tend to visually blend into each other. This lack of clear separation increases cognitive load, causes small but constant distractions, and slows down navigation and orientation within the workspace.
+However, it presents a practical usability issue: difficulty in quickly identifying the boundaries between interface elements.
 
-The goal of this theme is to improve visual clarity and spatial awareness by reinforcing boundaries and contrast between key UI regions, making it easier to understand “where things start and end” at a glance.
+Elements such as the title bar, tab bar, editor area, minimap, and terminal visually blend into each other. This lack of clear separation increases cognitive load, causes small but constant distractions, and slows down navigation and orientation within the workspace.
 
-Color theme based on Visual Studio Dark, designed to improve visual clarity and separation between interface elements, making it easier to recognize boundaries and understand the layout at a glance.
+I could not find a dark theme that addressed this usability issue while still remaining visually close to the Visual Studio Dark theme, so I created this theme.
 
 # Scope
 - No changes were made to syntax highlighting
