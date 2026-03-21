@@ -1,7 +1,7 @@
 {
   "name": "dark-leme",
   "displayName": "Dark Leme",
-  "publisher": "leme"
+  "publisher": "leme",
   "description": "Color theme based on Visual Studio Dark, designed to improve visual clarity and separation between interface elements, making it easier to recognize boundaries and understand the layout at a glance.",
   "version": "0.0.1",
   "icon": "images/icon.png",
