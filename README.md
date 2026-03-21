@@ -1,5 +1,3 @@
-# README
-
 # Goal
 
 The goal of this theme is to improve visual clarity and spatial awareness by reinforcing boundaries and contrast between key UI regions, making it easier to understand the layout at a glance.
