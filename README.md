@@ -34,6 +34,7 @@ Color theme based on Visual Studio Dark, designed to improve visual clarity and 
 9. Word highlight vs selection: Improved differentiation to avoid confusion between cursor-based highlights and actual text selection
 
 ![VS Code with theme applied](images/screen1.png)
+
 ![VS Code with theme applied](images/screen2.png)
 
 # Result
