@@ -1,8 +1,10 @@
-# Goal
+# README 
+
+## Goal
 
 The goal of this theme is to improve visual clarity and spatial awareness by reinforcing boundaries and contrast between key UI regions, making it easier to understand the layout at a glance.
 
-# Motivation
+## Motivation
 
 The Visual Studio Dark theme is the theme I personally find most suitable and comfortable to use.
 
@@ -12,13 +14,13 @@ Elements such as the title bar, tab bar, editor area, minimap, and terminal visu
 
 I could not find a dark theme that addressed this usability issue while still remaining visually close to the Visual Studio Dark theme, so I created this theme.
 
-# Scope
+## Scope
 - No changes were made to syntax highlighting
 - Changes are minimal and carefully selected
 - Focus is exclusively on UI clarity and usability
 - Small adjustments, but with a noticeable impact on daily use
 
-# Improvements
+## Improvements
 
 **1.** Title bar: Increased contrast and more distinct coloring to clearly separate it from the rest of the interface\
 **2.** Editor background: True black background for stronger contrast and better separation from surrounding elements\
@@ -39,6 +41,6 @@ I could not find a dark theme that addressed this usability issue while still re
 
 ![VS Code with theme applied](images/screen2.png)
 
-# Result
+## Result
 
 The overall effect is a cleaner and more structured interface, where boundaries are easier to perceive and elements are quicker to identify, reducing visual friction during development.
